@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "date": "2025",
+    "title": "The population of tidal disruption events discovered with eROSITA",
+    "authors": "I. Grotova, A. Rau, P. Baldini, A. J. Goodwin, Z. Liu, A. Merloni, et al.",
+    "venue": "Astronomy & Astrophysics",
+    "link": "https://www.aanda.org/articles/aa/full_html/2025/05/aa53669-25/aa53669-25.html",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "date": "2025",
+    "title": "eRO-ExTra: eROSITA extragalactic non-AGN X-ray transients and variables in eRASS1 and eRASS2",
+    "authors": "I. Grotova, A. Rau, M. Salvato, J. Buchner, A. J. Goodwin, Z. Liu, et al.",
+    "venue": "Astronomy & Astrophysics",
+    "link": "https://www.aanda.org/articles/aa/full_html/2025/01/aa51253-24/aa51253-24.html",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "date": "2025",
+    "title": "A systematic analysis of the radio properties of 22 X-ray selected tidal disruption event candidates with the Australia Telescope Compact Array",
+    "authors": "A. J. Goodwin, M. Burn, G. E. Anderson, J. C. A. Miller-Jones, I. Grotova, P. Baldini, et al.",
+    "venue": "The Astrophysical Journal Supplement Series",
+    "link": "https://iopscience.iop.org/article/10.3847/1538-4365/adbe80"
+  },
+  {
+    "id": "4",
+    "date": "2024",
+    "title": "A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event",
+    "authors": "A. J. Goodwin, G. E. Anderson, J. C. A. Miller-Jones, A. Malyali, I. Grotova, D. Homan, et al.",
+    "venue": "Monthly Notices of the Royal Astronomical Society",
+    "link": "https://academic.oup.com/mnras/article/528/4/7123/7604000"
+  },
+  {
+    "id": "5",
+    "date": "2023",
+    "title": "The rebrightening of a ROSAT-selected tidal disruption event: repeated weak partial disruption flares from a quiescent galaxy?",
+    "authors": "A. Malyali, Z. Liu, A. Rau, I. Grotova, A. Merloni, A. J. Goodwin, et al.",
+    "venue": "Monthly Notices of the Royal Astronomical Society",
+    "link": "https://academic.oup.com/mnras/article/520/3/3549/6979817"
+  },
+  {
+    "id": "10",
+    "date": "2023",
+    "title": "Deciphering the extreme X-ray variability of the nuclear transient eRASSt J045650.3−203750. A likely repeating partial tidal disruption event",
+    "authors": "Z. Liu, A. Malyali, M. Krumpe, D. Homan, A. J. Goodwin, I. Grotova, et al.",
+    "venue": "Astronomy & Astrophysics",
+    "link": "https://www.aanda.org/articles/aa/full_html/2023/01/aa44805-22/aa44805-22.html"
+  },
+  {
+    "id": "6",
+    "date": "2021",
+    "title": "SRG/eROSITA discovery of the classical nova AT2021jiu as a bright super-soft X-ray source",
+    "authors": "I. Grotova, C. Kirsch, A. Rau, O. König, I. Kreykenbohm, M. Krumpe, et al.",
+    "venue": "The Astronomer's Telegram",
+    "link": "https://ui.adsabs.harvard.edu/abs/2021ATel14927....1G/abstract"
+  },
+  {
+    "id": "7",
+    "date": "2021",
+    "title": "eRASSt_J093641.9+111347: Discovery of an ultra-soft nuclear transient in a FRII radio galaxy at z=0.12",
+    "authors": "I. Grotova, Z. Liu, A. Malyali, A. Rau, A. Merloni, et al.",
+    "venue": "The Astronomer's Telegram",
+    "link": "https://ui.adsabs.harvard.edu/abs/2021ATel14668....1G/abstract"
+  },
+  {
+    "id": "8",
+    "date": "2021",
+    "title": "eRASSt J040515.6-745202: A new X-ray transient discovered by eROSITA",
+    "authors": "A. Rau, I. Grotova, A. Gokus, F. Haberl, Z. Liu, M. Schramm, et al.",
+    "venue": "The Astronomer's Telegram",
+    "link": "https://ui.adsabs.harvard.edu/abs/2021ATel14646....1R/abstract"
+  },
+  {
+    "id": "9",
+    "date": "2020",
+    "title": "eRASSt J160827.6-605822: SRG/eROSITA detection of an extreme X-ray brightening of a candidate RS CVn system",
+    "authors": "I. Grotova, A. Rau, J. Knies, R. Ballhausen, J. Robrade, J. Schmitt, et al.",
+    "venue": "The Astronomer's Telegram",
+    "link": "https://ui.adsabs.harvard.edu/abs/2020ATel14046....1G/abstract"
+  }
+]

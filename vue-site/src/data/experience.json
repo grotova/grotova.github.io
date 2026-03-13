@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "date": "2020 – 2026",
+    "company": "Max Planck Institute for Extraterrestrial Physics, Germany",
+    "description": "Research Scientist (PhD Researcher in Astrophysics) – lead end-to-end data-driven projects and analysed large complex datasets (millions of entries) to discover and classify rare astrophysical events.",
+    "details": [],
+    "projects": [
+      {
+        "title": "X-ray survey data analysis",
+        "link": "https://www.aanda.org/articles/aa/full_html/2025/01/aa51253-24/aa51253-24.html",
+        "bullets": [
+          "Developed multi-step pipelines in Python to identify rare astrophysical sources.",
+          "Documented results in a clean, publicly available catalogue consisting of hundreds of rows and columns.",
+          {
+            "label": "The analysis included:",
+            "items": [
+              "Bayesian inference and MCMC sampling to model complex systems using heterogeneous datasets.",
+              "Statistical modeling of source populations with corrections for bias and selection effects.",
+              "Time-series trend and anomaly detection, nonlinear regression, and parametric model fitting to predict observability of astrophysical sources."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Exploration of a population of rare astrophysical events",
+        "link": "https://www.aanda.org/articles/aa/full_html/2025/05/aa53669-25/aa53669-25.html",
+        "extraLinks": [
+          {
+            "label": "How it looks",
+            "href": "https://science.nasa.gov/asset/hubble/black-hole-tidal-disruption-event/"
+          }
+        ],
+        "bullets": [
+          "Focused on identifying tidal disruption events – extremely rare high-energy phenomena where black holes tear apart stars.",
+          "Developed an efficient search methodology that doubled the known number of such events, selecting 30 true candidates out of 1.5 million sources.",
+          "The work was cited 30+ times within the first year."
+        ]
+      },
+      {
+        "title": "Data Operations and experimentation",
+        "bullets": [
+          "Real-time data analysis: performed real-time anomaly detection on large streams of astronomical data during live satellite operations, leading to discoveries of unique sources and subsequent publications.",
+          "Research planning: successfully wrote technical scientific proposals to obtain time on competitive ground- and space-based telescopes.",
+          "Designed observational experiment strategies and led data acquisition.",
+          "Operations: coordinated and scheduled shared telescope resources for a team of scientists.",
+          "Data pipelines: transformed raw noisy data into clean, analysis-ready datasets."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "date": "2020",
+    "company": "European Southern Observatory",
+    "description": "Research Intern – developed pipelines and performed physical modeling to explore population properties and distributions of obscured quasars.",
+    "details": [],
+    "projects": [],
+    "expandable": false
+  },
+  {
+    "id": "3",
+    "date": "2019",
+    "company": "University of Cambridge",
+    "description": "Research Intern at the Institute of Astronomy – worked with heterogeneous datasets to identify rare obscured quasars, using applied statistical modeling and signal analysis.",
+    "details": [],
+    "projects": [],
+    "expandable": false
+  }
+]
+

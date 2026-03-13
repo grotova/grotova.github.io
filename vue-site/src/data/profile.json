@@ -1,0 +1,20 @@
+{
+  "name": "Iuliia Grotova",
+  "location": "Munich, Germany",
+  "title": "Data Scientist",
+  "titles": [
+    "Data Scientist",
+    "PhD in Astrophysics",
+    "Research Scientist"
+  ],
+  "bio": [
+    "I'm a Data Scientist with a background in astrophysics (PhD) and 5+ years of research experience, with strong analytical thinking and a passion for Universe-scaled challenging tasks. I am proficient in advanced data analysis of large datasets, with a special focus on statistical modeling, time-series analysis, and anomaly detection.",
+    "Outside work, I am an enthusiast for health and wellness and am also a certified yoga teacher."
+  ],
+  "image": "/images/me.jpg",
+  "social": {
+    "github": "https://github.com/grotova",
+    "linkedin": "https://www.linkedin.com/in/iuliia-grotova/"
+  }
+}
+
