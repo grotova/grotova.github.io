@@ -61,9 +61,10 @@ import Card from '@/components/ui/Card.vue'
 import CardContent from '@/components/ui/CardContent.vue'
 import Badge from '@/components/ui/Badge.vue'
 import publicationsData from '@/data/publications.json'
+import type { Publication } from '@/types/publications'
 import { highlightAuthor } from '@/lib/authors'
 
-const selectedPapers = publicationsData.filter(pub => pub.featured === true)
+const selectedPapers = (publicationsData as Publication[]).filter(pub => pub.featured === true)
 </script>
 
 <style>

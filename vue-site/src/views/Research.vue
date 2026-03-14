@@ -57,9 +57,10 @@ import Card from '@/components/ui/Card.vue'
 import CardContent from '@/components/ui/CardContent.vue'
 import Badge from '@/components/ui/Badge.vue'
 import publicationsData from '@/data/publications.json'
+import type { Publication } from '@/types/publications'
 import { highlightAuthor } from '@/lib/authors'
 
-const publications = publicationsData
+const publications = publicationsData as Publication[]
 
 const isSelectedPaper = (id: string) => {
   const pub = publications.find(p => p.id === id)
