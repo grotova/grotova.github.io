@@ -1,6 +1,6 @@
 /**
  * Highlights the author's name in the authors list by making it bold
- * @param authors - Full authors string (e.g., "K Grotov, A Smith, B Jones")
+ * @param authors - Full authors string (e.g., "I. Grotova, A Smith, B Jones")
  * @returns HTML string with the author's name in bold
  */
 export function highlightAuthor(authors: string): string {

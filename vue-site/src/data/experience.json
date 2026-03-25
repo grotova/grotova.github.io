@@ -3,7 +3,7 @@
     "id": "1",
     "date": "2020 – 2026",
     "company": "Max Planck Institute for Extraterrestrial Physics, Germany",
-    "description": "Research Scientist (PhD Researcher in Astrophysics) – lead end-to-end data-driven projects and analysed large complex datasets (millions of entries) to discover and classify rare astrophysical events.",
+    "description": "Research scientist (Astrophysics PhD) - working on large-scale astronomical datasets to discover and classify rare astrophysical events.",
     "details": [],
     "projects": [
       {
@@ -11,7 +11,7 @@
         "link": "https://www.aanda.org/articles/aa/full_html/2025/01/aa51253-24/aa51253-24.html",
         "bullets": [
           "Developed multi-step pipelines in Python to identify rare astrophysical sources.",
-          "Documented results in a clean, publicly available catalogue consisting of hundreds of rows and columns.",
+          "Produced a structured public dataset enabling further astrophysical research.",
           {
             "label": "The analysis included:",
             "items": [

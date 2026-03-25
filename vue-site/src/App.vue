@@ -12,6 +12,10 @@
 import Header from '@/components/Header.vue'
 import Footer from '@/components/Footer.vue'
 import { useTheme } from '@/composables/useTheme'
+import profile from '@/data/profile.json'
+
+// Set tab title from profile (overrides index.html, fixes cache/old deploys)
+document.title = `${profile.name} | ${profile.title} | ${profile.location}`
 
 // Initialize theme immediately
 const { initTheme } = useTheme()
